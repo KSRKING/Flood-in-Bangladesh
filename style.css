@@ -1,17 +1,26 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    border: 2px;
+    
 }
 .top{
     background-image: url(donate-today-main/images/Background.png);
     
+    
+    padding: 5%px;
+    background-repeat: no-repeat;
 }
 .lets-help{
-    width: 80%;
+    
+
+
     color:orange;
-    padding: 20px;
-    text-align: center;
+    padding: 20%;
+    border: 100%
+    ;
+    text-align: center
+    ;
+
     
 }
 .donate-now-button{
@@ -32,28 +41,31 @@ body{
 .set-amount{
     
     text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
     
 }
-.amount100to5000{
+.amount100to5000{text-align: center
+    ;
     display: flex;
     margin: 20px;
+    padding: 5px;
 }
 .plan{
     text-align: center;
-    
-
-
+    width: 90%;
+    margin: 50px;
 }
-.foodtoedu{
+.foodtoedu{text-align: center;
     display: flex;
     margin: 40px;
-    margin-left: 20%;
+    margin-left: 10px;
 }
 .food{
-    border: 10px;
+    border: 20px;
     background-color: antiquewhite;
+    margin: 20px;
     
-margin: 20px;
     }
     .shelter{
         border: 20px;
@@ -63,19 +75,23 @@ margin: 20px;
     }
 .education{
 border: 20px;
+
 background-color:hotpink;
 margin: 20px;
 box-shadow: 10px;
 }
 .foodimage{
+    margin-right: 10%;
     
 }
 .half-side{
-    width: 50%;
+    width: 60%;
     padding: 5%;
+    
 }
 .hlf-side img{
-    width: 100%;
+    width:20px;
+
     
 
 }
@@ -85,19 +101,33 @@ box-shadow: 10px;
     
 }
 .survive{display: flex;
-margin-bottom: 20px;
-margin-right: 50%;}
+    
+    margin-left: 80px;
+    margin-right: 80px;
+}
 footer{
+    text-decoration: none;
     text-align: center;
     background-color: black;
     color: whitesmoke;
+    
 }
 #behumble{
     color: red;
 }
 .email{
-height: 20%;
-    width: 25%;
-    margin-left: 20%;
-    padding: 20%;
+    text-align: center;
+}
+#emailback{
+
+    padding: 5%;
+    background-color: bisque;
+    margin: bottom 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.photodonate{
+    height: 60%;
+    width: 90%;
+    
 }
