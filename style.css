@@ -1,27 +1,16 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    
 }
 .top{
     background-image: url(donate-today-main/images/Background.png);
-    
-    
     padding: 5%px;
     background-repeat: no-repeat;
 }
 .lets-help{
-    
-
-
     color:orange;
-    padding: 20%;
-    border: 100%
-    ;
-    text-align: center
-    ;
-
-    
+    padding: 5%;
+    text-align: center; 
 }
 .donate-now-button{
     text-decoration: none;
@@ -97,7 +86,7 @@ box-shadow: 10px;
 }
 .depend{
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     
 }
 .survive{display: flex;
@@ -125,6 +114,7 @@ footer{
     margin: bottom 100px;
     margin-left: 300px;
     margin-right: 300px;
+    border-radius: 5px;
 }
 .photodonate{
     height: 60%;
